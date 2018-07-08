@@ -1,3 +1,4 @@
 Hello Git!
 It's new line.
 Another line.
+CHANGED
